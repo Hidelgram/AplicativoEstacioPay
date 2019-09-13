@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EstacioPay</string>
+    <string name="logo1">Estacio</string>
+    <string name="logo2">Pay</string>
+    <string name="slogan">Mobilidade e Praticidade</string>
+    <string name="buttonlogin">Entrar</string>
+    <string name="buttonCriarConta">Não tem uma conta? Crie agora</string>
+    <string name="textEsqueceuSenha">Esqueceu sua senha?</string>
+    <string name="textCadastro">Cadastro</string>
+    <string name="contaCliente">Cliente</string>
+    <string name="contaEstacionamento">Estacionamento</string>
+    <string name="CCnome">Nome</string>
+    <string name="CCcpf">CPF</string>
+    <string name="CCemail">E-mail</string>
+    <string name="CCsenha">Senha</string>
+    <string name="CCconfirmaSenha">Confirmar senha</string>
+    <string name="CCtelefone">Telefone</string>
+    <string name="CCdataDeNasc">Data de Nascimento</string>
+    <string name="CCcnh">CNH </string>
+    <string name="CCcadastro">Cadastrar</string>
+    <string name="CEcnpj">CNPJ</string>
+    <string name="CErazaoSocial">Razão social</string>
+    <string name="CEnomeFantasia">Nome Fantasia</string>
+    <string name="CEbairro">Bairro</string>
+    <string name="CErua">Rua</string>
+    <string name="CEnumero">Número</string>
+    <string name="CEcidade">Cidade</string>
+    <string name="CEquantidadeVagas">Quantidade de vagas</string>
+    <string name="CEprimeiraHora">Primeira hora</string>
+    <string name="CEsegundaHora">Segunda hora</string>
+    <string name="CEcadastrar">Cadastrar</string>
+    <string name="txtNovoCadastro">Não tem uma conta?</string>
+</resources>
